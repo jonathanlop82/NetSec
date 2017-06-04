@@ -1,1 +1,0 @@
-qemu-system-x86_64 -nographic -serial mon:stdio -append 'console=ttyS0' ubuntu.qcow -boot c -net nic -net user -m 1024 -localtime
