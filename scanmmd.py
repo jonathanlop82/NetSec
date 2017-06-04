@@ -1,7 +1,8 @@
+# coding=utf-8
 import nmap
 import sys
 
-print('Scanmmd: , Desarrollado por Jonathan López, 2017')
+print ("Scanmmd: , Desarrollado por Jonathan López, 2017")
 direccion    = raw_input("Introduzca el numero de sucursal: ")
 num = int(direccion)
 dirip = ''
